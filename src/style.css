@@ -18,3 +18,13 @@ canvas {
     color: white;
     tab-size: 80;
 }
+.control {
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    color: white;
+    tab-size: 80;
+}
